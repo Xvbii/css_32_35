@@ -1,0 +1,10 @@
+ h3 { 
+ width: 300pt;
+ height: 4cm;
+ padding : 20px;
+ margin-left : 25px;
+ border : 10px double silver;
+ background : rgb(255,182,193);
+  font-size: 5mm;
+ }
+ 
